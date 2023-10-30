@@ -1,8 +1,18 @@
-# React + Vite
+# Swyftly Shoe Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a shoe product page for a imaginary company **Swyftly**.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js
+- Vite
+- Tailwind CSS
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install the dependencies using `npm install`.
+3. Start the development server using `npm run dev`.
+4. Open your browser and navigate to `http://localhost:3000` to view the app.
